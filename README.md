@@ -1,4 +1,4 @@
 # Netflix-Clone
 
-##Author
+#Author
 Rohini Longadge
